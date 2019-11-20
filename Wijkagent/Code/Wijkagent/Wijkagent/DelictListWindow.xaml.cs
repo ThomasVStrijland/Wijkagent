@@ -15,11 +15,11 @@ using System.Windows.Shapes;
 namespace Wijkagent
 {
     /// <summary>
-    /// Interaction logic for DelictList.xaml
+    /// Interaction logic for DelictListWindow.xaml
     /// </summary>
-    public partial class DelictList : Window
+    public partial class DelictListWindow : Window
     {
-        public DelictList()
+        public DelictListWindow()
         {
             InitializeComponent();
         }
